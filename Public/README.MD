@@ -1,0 +1,1 @@
+you can place all the imagens on thsi folder
