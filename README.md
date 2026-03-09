@@ -1,11 +1,11 @@
-# Lumina Systems | Enterprise Analytics Dashboard
+#  Enterprise Analytics Dashboard
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwind-css)
 
-Lumina Systems is a high-performance, professional-grade enterprise dashboard designed for modern data orchestration. Built with a focus on **precision**, **scalability**, and **user experience**, it provides a seamless interface for monitoring complex systems and managing organizational data.
+High-performance, professional-grade enterprise dashboard designed for modern data orchestration. Built with a focus on **precision**, **scalability**, and **user experience**, it provides a seamless interface for monitoring complex systems and managing organizational data.
 
 ---
 
@@ -72,8 +72,8 @@ src/
 
 1. **Clone the repository**
    
-   git clone https://github.com/your-org/lumina-systems.git
-   cd lumina-systems
+   git clone https://github.com/HideyukiJS/AdminDashboardTemplate.git
+   cd AdminDashboardTemplate
    
 
 2. **Install dependencies**
@@ -101,5 +101,5 @@ This project is licensed under the **MIT**. See the [LICENSE](LICENSE) file for 
 
 <p align="center">
   Built with precision by <b>Hideyuki</b><br/>
-  © 2026 Lumina Systems. All rights reserved.
+  
 </p>
