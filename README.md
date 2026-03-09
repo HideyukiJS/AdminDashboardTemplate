@@ -10,6 +10,10 @@ High-performance, professional-grade enterprise dashboard designed for modern da
 ---
 
 
+https://github.com/user-attachments/assets/764d91db-91d2-44a0-8023-78ebe0a6d34e
+
+
+
 ## 🚀 Core Capabilities
 
 ### 📈 Intelligent Analytics
