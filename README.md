@@ -104,6 +104,6 @@ This project is licensed under the **MIT**. See the [LICENSE](LICENSE) file for 
 ---
 
 <p align="center">
-  Built with precision by <b>Hideyuki</b><br/>
+  B
   
 </p>
